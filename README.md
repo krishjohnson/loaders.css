@@ -9,7 +9,7 @@ Delightful and performance-focused pure css loading animations.
 
 ### What is this?
 
-[See the demo](http://codemorning.xyz/100utils/demo/css_logings/loaders)
+[See the demo](http://codemorning.xyz/100utils/demo/pure_css_loading/loaders)
 
 A collection of loading animations written entirely in css.
 Each animation is limited to a small subset of css properties in order
